@@ -22,7 +22,7 @@ pip install pandas scikit-learn xgboost matplotlib seaborn
  run 
 
 ```python
-python 220.py
+5G用户预测.py
 ```
 
 
